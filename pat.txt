@@ -1,0 +1,7 @@
+Janice              A01       890902         m   34   Melaka                                       Emergency Kidney      03/08/19       1           1380    500           880
+Mariah              A02       647548         f   35   Johor                                        Ordinary  High Fever  09/05/09       2           30      30            0
+Arul                A04       934484         m   16   Kelantan                                     Emergency fracture    05/05/12       3           2000    1020          980
+Jason               A07       376439         m   23   Johor                                        Emergency Fracture    05/12/16       5           4000    2000          2000
+Gnisha              A08       2849433        f   30   Sabah                                        Ordinary  Menopause   20/03/05       7           200     90            110
+Santa               A09       567902         m   100  North Pole                                   Emergency Indigestion 04/08/09       5           0       0             0
+Rami                A11       8375984        f   34   Kapit                                        Ordinary  Fever       05/05/12       6           23      23            0

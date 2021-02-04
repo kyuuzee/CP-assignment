@@ -1,0 +1,4 @@
+Ibuprofen           80    17      
+Paracetamol         56    9
+Ativan              78    12
+Codeine             0     13

@@ -1,0 +1,4 @@
+Blair                    1111222        m    34   Kuala Lumpur                                      23/02/17       4                   MD
+Shahrul Khan             123509-90      m    60   Melaka                                            04/03/89       30                  MDDS
+Neveah                   8907364        f    44   London                                            30/01/02       12                  MD
+Helen                    1230798        f    55   Kuantan                                           02/12/00       22                  MDDS
